@@ -37,7 +37,7 @@ Your salary will be processed on 1st of every month. Please make sure your Emplo
 
 ## Payments in Bitcoin. 
 - We support Bitcoin salary / contractor payments for our employees and contractors all over the world. 
-- USD to BTC exchange rate of 12:00:00 PM GMT on the 1st of every month will be used. We pay your paycheck on the first of every month. We use exchange rate on coinbase.com
+- USD to BTC exchange rate on the 1st of every month will be used. We pay your paycheck on the first of every month. We use exchange rate on coinbase.com
 - Bitcoin payments will be instant. We will use the same BTC address for transfer every month. 
 - You need to give us your BTC address 5 days in advance. 
 - BTC payments can either be on-chain or over Lightning. You choose whatever works for you. 
